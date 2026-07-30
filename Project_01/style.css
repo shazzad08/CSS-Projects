@@ -100,3 +100,14 @@ body {
 #elem:hover{
     background-color: #b0a6a6d6;
 }
+#elem a:hover{
+    text-decoration: underline;
+}
+
+#bottom{
+    height: 80%;
+    width: 100%;
+    background-image: url(https://i.pinimg.com/736x/4b/80/36/4b80365c04e2e9c8c73b467627957d19.jpg);
+    background-size: cover;
+    background-position: 0  48%;
+}
