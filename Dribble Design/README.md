@@ -1,6 +1,6 @@
 # Dribbble Design
 
-A responsive Dribbble-inspired creative talent landing page built with HTML, CSS and JavaScript.
+A responsive Dribbble-inspired creative talent landing page built with HTML, CSS.
 
 ## Demo
 
@@ -20,7 +20,6 @@ A responsive Dribbble-inspired creative talent landing page built with HTML, CSS
 
 - HTML5
 - CSS3
-- JavaScript
 
 ## Project Structure
 
