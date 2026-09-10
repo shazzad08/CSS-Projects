@@ -4,7 +4,7 @@ A responsive Dribbble-inspired creative talent landing page built with HTML, CSS
 
 ## Demo
 
-<video src="https://github.com/user-attachments/assets/YOUR-VIDEO-ID" controls></video>
+<video src="./videos/screen-capture.webm" controls autoplay muted loop playsinline width="100%"></video>
 
 ## Features
 
@@ -29,8 +29,8 @@ Dribble Design/
 ├── index.html
 ├── style.css
 ├── README.md
-├── demo.mp4
-└── videos/
+├── videos/
+    ├── screen-capture.webm
     ├── one.mp4
     ├── two.mp4
     ├── three.mp4
